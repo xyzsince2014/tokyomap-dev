@@ -1,0 +1,5 @@
+/redis/data
+
+/postgres/var/
+
+/web/var/log
